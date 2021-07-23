@@ -147,7 +147,7 @@ body {
 
 .content-area {
   position: absolute;
-  top: 45px;
+  top: 55px;
   left: 220px;
 }
 
@@ -216,6 +216,7 @@ body {
 
 .inner .wrapper-content .profile-pic {
   position: absolute;
+  top: 150px;
   height: 150px;
   width: 200px;
   border: 1px solid #ccc;
