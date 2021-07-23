@@ -319,3 +319,12 @@ select{
     border: none;
     outline: none;
 }
+
+button{
+    padding: .7em 1.7em;
+    color: #fff;
+    background: $secondary-color;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}

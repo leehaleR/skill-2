@@ -351,4 +351,13 @@ select {
   border: none;
   outline: none;
 }
+
+button {
+  padding: .7em 1.7em;
+  color: #fff;
+  background: #00003E;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
 /*# sourceMappingURL=style.css.map */
