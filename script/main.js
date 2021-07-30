@@ -49,7 +49,7 @@ Webcam.set({
     width: 220,
     height: 190,
     image_format: 'jpeg',
-    jpeg_quality: 100
+    jpeg_quality: 100,
 });
 Webcam.attach('#camera');
 
